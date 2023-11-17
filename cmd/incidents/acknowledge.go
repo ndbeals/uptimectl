@@ -3,8 +3,8 @@ package incidents
 import (
 	"fmt"
 
+	"github.com/ndbeals/uptimectl/pkg/betteruptime"
 	"github.com/spf13/cobra"
-	"github.com/uptime-cli/uptimectl/pkg/betteruptime"
 )
 
 var (

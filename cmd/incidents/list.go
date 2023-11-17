@@ -6,9 +6,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/betteruptime"
-	"github.com/uptime-cli/uptimectl/pkg/table"
-	"github.com/uptime-cli/uptimectl/pkg/timeformat"
+	"github.com/ndbeals/uptimectl/pkg/betteruptime"
+	"github.com/ndbeals/uptimectl/pkg/table"
+	"github.com/ndbeals/uptimectl/pkg/timeformat"
 )
 
 const NoHeaderKey = "no-header"

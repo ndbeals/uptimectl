@@ -7,9 +7,9 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/cmd/incidents"
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
-	"github.com/uptime-cli/uptimectl/pkg/fzf"
+	"github.com/ndbeals/uptimectl/cmd/incidents"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
+	"github.com/ndbeals/uptimectl/pkg/fzf"
 )
 
 // useOrganisationCmd represents the use-organisation command

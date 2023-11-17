@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/uptime-cli/uptimectl/cmd"
-	versionpkg "github.com/uptime-cli/uptimectl/pkg/version"
+	"github.com/ndbeals/uptimectl/cmd"
+	versionpkg "github.com/ndbeals/uptimectl/pkg/version"
 )
 
 // these must be set by the compiler using LDFLAGS

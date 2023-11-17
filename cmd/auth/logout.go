@@ -3,7 +3,7 @@ package auth
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/authmanager"
+	"github.com/ndbeals/uptimectl/pkg/authmanager"
 )
 
 // logout represents the logout command

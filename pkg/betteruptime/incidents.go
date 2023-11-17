@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"time"
 
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
 )
 
 var (

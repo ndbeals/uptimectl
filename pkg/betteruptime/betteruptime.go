@@ -8,8 +8,8 @@ import (
 
 	"github.com/go-resty/resty/v2"
 
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
-	versionpkg "github.com/uptime-cli/uptimectl/pkg/version"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
+	versionpkg "github.com/ndbeals/uptimectl/pkg/version"
 )
 
 type client struct {

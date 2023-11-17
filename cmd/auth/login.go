@@ -6,8 +6,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/authmanager"
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
+	"github.com/ndbeals/uptimectl/pkg/authmanager"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
 )
 
 var (

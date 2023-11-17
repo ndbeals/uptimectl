@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
+	uptimectl "github.com/ndbeals/uptimectl/cmd"
 	"github.com/spf13/cobra/doc"
-	uptimectl "github.com/uptime-cli/uptimectl/cmd"
 )
 
 const fmTemplate = `---

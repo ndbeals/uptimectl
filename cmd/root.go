@@ -6,16 +6,16 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/cmd/auth"
-	"github.com/uptime-cli/uptimectl/cmd/config"
-	"github.com/uptime-cli/uptimectl/cmd/incidents"
-	"github.com/uptime-cli/uptimectl/cmd/monitorgroups"
-	"github.com/uptime-cli/uptimectl/cmd/monitors"
-	"github.com/uptime-cli/uptimectl/cmd/oncall"
-	"github.com/uptime-cli/uptimectl/cmd/statuspages"
-	"github.com/uptime-cli/uptimectl/cmd/version"
-	"github.com/uptime-cli/uptimectl/pkg/authmanager"
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
+	"github.com/ndbeals/uptimectl/cmd/auth"
+	"github.com/ndbeals/uptimectl/cmd/config"
+	"github.com/ndbeals/uptimectl/cmd/incidents"
+	"github.com/ndbeals/uptimectl/cmd/monitorgroups"
+	"github.com/ndbeals/uptimectl/cmd/monitors"
+	"github.com/ndbeals/uptimectl/cmd/oncall"
+	"github.com/ndbeals/uptimectl/cmd/statuspages"
+	"github.com/ndbeals/uptimectl/cmd/version"
+	"github.com/ndbeals/uptimectl/pkg/authmanager"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
 )
 
 // rootCmd represents the base command when called without any subcommands

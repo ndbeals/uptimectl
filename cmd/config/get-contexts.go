@@ -3,8 +3,8 @@ package config
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
-	"github.com/uptime-cli/uptimectl/pkg/table"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
+	"github.com/ndbeals/uptimectl/pkg/table"
 )
 
 const NoHeaderKey = "no-header"

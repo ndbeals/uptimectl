@@ -1,4 +1,4 @@
-module github.com/uptime-cli/uptimectl
+module github.com/ndbeals/uptimectl
 
 go 1.21
 

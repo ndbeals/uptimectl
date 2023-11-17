@@ -5,7 +5,7 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/contextmanager"
+	"github.com/ndbeals/uptimectl/pkg/contextmanager"
 )
 
 func ContextCompletionFunc(allowMultiple bool) func(cmd *cobra.Command, args []string, toComplete string) ([]string, cobra.ShellCompDirective) {

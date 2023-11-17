@@ -3,7 +3,7 @@ package monitorgroups
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/betteruptime"
+	"github.com/ndbeals/uptimectl/pkg/betteruptime"
 )
 
 // deleteCmd represents the delete command

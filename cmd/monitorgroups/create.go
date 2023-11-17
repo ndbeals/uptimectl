@@ -5,8 +5,8 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"github.com/uptime-cli/uptimectl/pkg/betteruptime"
-	"github.com/uptime-cli/uptimectl/pkg/table"
+	"github.com/ndbeals/uptimectl/pkg/betteruptime"
+	"github.com/ndbeals/uptimectl/pkg/table"
 )
 
 // getCmd represents the get command

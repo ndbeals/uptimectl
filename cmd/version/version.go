@@ -3,7 +3,7 @@ package version
 import (
 	"github.com/spf13/cobra"
 
-	versionpkg "github.com/uptime-cli/uptimectl/pkg/version"
+	versionpkg "github.com/ndbeals/uptimectl/pkg/version"
 )
 
 var VersionCmd = &cobra.Command{
